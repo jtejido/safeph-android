@@ -1,0 +1,2 @@
+rootProject.name='SafePH'
+include ':app'

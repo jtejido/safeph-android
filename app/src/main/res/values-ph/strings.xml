@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="terms_url">https://safeph.luckyseven.com.ph/uvjeti-koristenja.html</string>
+    <string name="privacy_url">https://safeph.luckyseven.com.ph/pravila-privatnosti.html</string>
+    <string name="accessibility_url">https://safeph.luckyseven.com.ph/izjava-pristupacnosti.html</string>
+    <string name="license_url">https://safeph.luckyseven.com.ph/komponente.html</string>
+
+    <string name="exposures">Mga exposure</string>
+    <string name="notify_others">Ipaalam sa iba</string>
+    <string name="possible_exposure">Posibleng exposure</string>
+    <string name="no_exposures">Walang exposure</string>
+    <string name="share_test_result_title">Ipaalam na ikaw ay nahawaan</string>
+    <string name="share_test_result_description">Ang pagbabahagi ng impormasyon na ikaw ay nahawaan at pagpapadala ng iyong keys ay makakatulong sa iba na maaaring nahawaan.</string>
+    <string name="share_test_result">Ipaalam sa iba</string>
+    <string name="positive_test_results">Positibong resulta</string>
+    <string name="no_positive_test_results">Walang positibong resulta</string>
+    <string name="enter_your_test_identifier">Ipasok ang code</string>
+    <string name="share_test_identifier_help">Ipasok ang code na natanggap matapos ang positibong resulta ng COVID-19 test at ipaalam sa iba.</string>
+    <string name="btn_next">Kumpirmahin</string>
+    <string name="btn_cancel">Kanselahin</string>
+    <string name="test_date_label">Petsa ng test</string>
+    <string name="share_test_date_help">Ang petsa ay makakatulong sa app upang malaman ang haba ng panahon na ikaw ay nakakahawa.</string>
+    <string name="contact_tracing_title">SafePH</string>
+    <string name="no_internet_connection">Walang magagamit na koneksyon sa internet</string>
+    <string name="exposure_notification_dialog_title">Paganahin ang SafePH\nExposure Notifications?</string>
+    <string name="exposure_notification_dialog_description">Ang iyong phone ay nangangailangan ng Bluetooth para ligtas na itala at ipaalam ang mga randomly generated codes sa ibang phone na malapit.\n\nIpagbibigay alam sa iyo ng SafePH kapag ikaw ay lumapit sa isa o higit pang indibidwal na nai-ulat na nagpositibo sa isang COVID-19 test.\n\nAng petsa, haba ng panahon at lakas ng signal na kaakibat ng exposure ay ibabahagi ng app.</string>
+    <string name="turn_on">Paganahin</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="app_info_title">Exposure Notifications sa COVID-19</string>
+    <string name="service_toggle_info">Maaari mong i-hinto ang notifications anumang oras.</string>
+    <string name="app_info">Ang mga application notifications ay dinisenyo upang balaan ka kapag ikaw ay na-expose sa mga indibidwal na nai-ulat na nag-positibo sa isang COVID-19 test.\n\nAng mga exposure notifications ay umaasa sa pagbabahagi at pangongolekta ng mga randomly generated reference codes. Ang mga codes ay mga numero na hindi mai-uugnay sa iyo ng ibang indibidwal. Eto ay nagbabago makailang ulit kada araw upang maprotektahan ka.</string>
+    <string name="proceed">Magpatuloy</string>
+    <string name="next_steps_high_risk"><![CDATA[<b>Mga susunod na hakbang:</b><br/><br/>Dahil sa malapit na pakikipag-ugnay at ang antas ng panganib, ni-rerekomenda na ikaw ay magtungo sa isang malapit na Laboratory para sa COVID-19.<br/><br/>Dito mahahanap mo ang isang listahan ng mga lugar kung saan maaari kang kumuha ng COVID-19 test.]]></string>
+    <string name="next_steps_low_risk"><![CDATA[<b>Mga susunod na hakbang:</b><br/><br/>Regular na subaybayan ang mga sintomas at sukatin ang temperatura ng katawan.<br/>Ang paghiwalay sa sarili sa loob ng 14 days ay inirerekomenda para sa kaligtasan ng iba sa iyong paligid.]]></string>
+    <string name="exposure_info"><![CDATA[%s ikaw ay lumapit sa isang tao na nagbahagi ng kanilang positibong resulta mula sa isang Covid-19 test.]]></string>
+    <string name="exposure_info_title">Posibleng exposure</string>
+    <string name="share_title">Ibahagi ang iyong mga random na itinalagang identifier sa "SafePH" application??</string>
+    <string name="share_message">Ang iyong mga randomly generated codes sa loob ng 14 days ay gagamitin upang ipaalam sa ibang users ng app na ikaw ay lumapit sa isang posibleng exposure ng COVID-19.\n\nAng petsa at oras ng iyong paglapit ay ibabahagi sa ibang users na lumapit sa iyo, ngunit hindi ibabahagi ang iyong pagkakakilanlan.</string>
+    <string name="share_button">Ibahagi</string>
+    <string name="privacy_title">Paano gumagagana ang SafePH exposure notifications?</string>
+    <string name="privacy_message">Ang mga application notifications ay dinesenyo upang ipaalam sa iyo na ikaw ay na-expose sa iba pang user ng application na nagbahagi at nagpa-alam ng kanilang pagiging positibo gamit ang application.\n\nMaari mong piliin na i-off ang notifications sa anu mang oras.\n\nAng mga exposure notices ay dumedepende at umaayon sa pagbabahagi at pangongolekta ng mga random identifiers. Ang mga identifiers ay isang serye ng mga numero na hindi ka nakikilala sa ibang mga gumagamit at binago nang maraming beses sa isang araw upang maprotektahan ang iyong privacy. </string>
+    <string name="slide_text">Slide</string>
+    <string name="on">Aktibo</string>
+    <string name="off">Hindi Aktibo</string>
+    <string name="high_risk_tem">Napakadelekado</string>
+    <string name="low_risk_item">Mababang peligro</string>
+    <string name="no_contacts">Ang application ay hindi nai-record ang mga contact sa iba pang mga devices sa malapit.</string>
+    <string name="anonymous">Makipag-ugnay sa iba pang mga devices na malapit ng walang pagkaka-kilanlan at hindi nag-tatala ng iyong lokasyon.</string>
+    <string name="exposures_in_past_days">LISTAHAN NG MGA INFECTION:</string>
+    <string name="language">Wika:</string>
+    <string name="go">Magsimula</string>
+    <string name="done">Tapos na</string>
+    <string name="who_received_notification">Ang notification ay matatanggap lamang ng mga taong exposed.</string>
+    <string name="thank_you_for_caring">Salamat sa pag-aalaga sa iba!</string>
+    <string name="english">Ingles</string>
+    <string name="tagalog">Tagalog</string>
+    <string name="get_started">Magsimula</string>
+    <string name="tagalog_language">Tagalog</string>
+    <string name="english_language">Ingles</string>
+    <string name="tagalog_language_short">ph</string>
+    <string name="english_language_short">en</string>
+    <string name="exposure_info_upload_successful">Salamat sa pag-aalaga sa iba.</string>
+    <string name="not_now">Hindi ngayon</string>
+    <string name="please_update_app">Mangyaring i-update ang iyong application</string>
+    <string name="contact_tracing_credo">Alagaan ang iyong sarili at ang iba pa!</string>
+    <string name="click_here_for_more">Mag-click dito para sa impormasyon</string>
+    <string name="confirm">Kumpirma</string>
+    <string name="share_keys">Ibahagi ang mga key</string>
+    <string name="day">araw</string>
+    <string name="days">mga araw</string>
+    <string name="error">Error</string>
+    <string name="close">Close</string>
+
+    <string name="high_risk">Mataas na panganib ng impeksyon</string>
+    <string name="medium_risk">Katamtamang panganib ng impeksyon</string>
+    <string name="low_risk">Mababang peligro ng impeksyon</string>
+
+    <string name="high_risk_short">Ikaw ay nasa isang mataas na panganib na nakipag-ugnay sa isang nahawahan na tao.</string>
+    <string name="medium_risk_short">Ikaw ay nasa katamtamang panganib na nakipag-ugnay sa isang nahawahan na tao.</string>
+    <string name="low_risk_short">Nakipag-ugnay ka sa isang nahawaang tao.</string>
+
+    <string name="high_risk_long">Manatili sa bahay at tawagan ang iyong doktor o malapit na ospital, bibigyan ka ng karagdagang mga tagubilin. Sabihin sa iyong doktor na naka-install ang application na ito.</string>
+    <string name="medium_risk_long">Regular na suriin ang iyong mga sintomas sa susunod na dalawang linggo. Magsuot ng face-mask o face-shield kapag aalis ng iyong bahay at iwasan ang pakikipag-ugnay sa mga matatanda. Kung nagkakaroon ka ng mga sintomas, manatili sa bahay at tawagan ang iyong doktor na magbibigay sa iyo ng karagdagang mga tagubilin. Sabihin sa kanya na naka-install ang application na ito.</string>
+    <string name="low_risk_long">Regular na suriin ang iyong mga sintomas sa susunod na dalawang linggo. Magsuot ng face-mask o face-shield kapag aalis ng iyong bahay at iwasan ang pakikipag-ugnay sa mga matatanda. Kung nagkakaroon ka ng mga sintomas, manatili sa bahay at tawagan ang iyong doktor na magbibigay sa iyo ng karagdagang mga tagubilin. Sabihin sa kanya na naka-install ang application na ito.</string>
+
+    <string name="privacy_info_title">Ligtas ang iyong privacy</string>
+    <string name="privacy_first">Ang app na ito ay hindi nangongolekta o nangangailangan ng anumang pribadong inpormasyon (Pangngalan, Lokasyon, Phone number o anumang maaaring gamitin para sa iyong pagkakakakilanlan). Gumagamit ito ng cryptographically secured and madalas na nagbabagong mga encrypted key na nai-generate ng iyong device para maipa-alam sa ibang malapit na users.</string>
+    <string name="privacy_second">Anumang impormasyong naka-tala sa device na ito at koneksyon sa server ay protektado.</string>
+    <string name="privacy_third">Ang impormasyon ay naka-tala sa server ng Pilipinas at kontrolado ng (Pangngalan ng Departamento).</string>
+    <string name="update_message">Sakaling may bagung bersyon ng app, ang bagung bersyon ay kailangang i-install upang magamit ang app.</string>
+    <string name="upgrade">Google Play</string>
+    <string name="how_app_works">Paano gumagana ang app?</string>
+    <string name="step_one_title">Nagtatalaga ang app ng isang randomly generated keys o Temporary Exposure Keys (TEK) sa bawat device</string>
+    <string name="step_one_text">Ang mga key na ito ay isang random na string ng mga character at hindi naglalaman ng impormasyon tungkol sa iyong device o sa iyo. Ilang beses silang umiikot bawat oras (kada 10-20 minuto) upang maprotektahan ang iyong privacy.</string>
+    <string name="step_two_title">Ang mga device na nakikipag-ugnay ay nagpalitan ng kanilang mga random key</string>
+    <string name="step_two_text">Kapag malapit ka sa isa pang gumagamit ng application, ang mga mobile phone ay nagpapalitan ng key sa pamamagitan ng Bluetooth. Sa ganitong paraan, masusubaybayan ng application ang mga contact na ginawa nang walang kakayahang makilala ka o ang taong nakikipag-ugnay sa iyo</string>
+    <string name="step_three_title">Ang mga user na nag positibo sa test ay maaaring pumili kung nais nilang ibahagi ang kanilang mga random key</string>
+    <string name="step_three_text">Ang mga user na may positibong resulta sa laboratoryo ay maaaring magpadala ng kanilang mga random key na nai-broadcast sa nakaraang panahon sa server, at eto\'y magagamit ng iba pang mga user ng application. Ang mga random key ay ipinapadala sa pamamagitan ng pagpasok ng code na nanggaling sa isang healthcare professional matapus nilang makakuha ng positibong resulta ng test sa COVID-19.</string>
+    <string name="step_four_title">Sinusuri ng bawat device kung nagkaroon ito ng contact sa alinmang ibinahaging mga key</string>
+    <string name="step_four_text">Paminsan-minsang sinusuri ng app ang mga key sa server at inihahambing ang mga ito sa mga key na nai-tala sa iyong device. Pinapayagan nito ang app upang matukoy kung ikaw ay na-expose sa isang potensyal na peligro sa impeksyon.</string>
+    <string name="step_five_title">Pinapa-alam sa user kung mayroong positibong tugma</string>
+    <string name="step_five_text">Kung nakipag-ugnay ka sa isang user nag-positibo sa test at nagbahagi ng kanilang mga key, magpapadala sa iyo ang app ng notification at mga tagubilin kung ano ang susunod na gagawin. Ang app ay hindi kailangan o gumamit ng impormasyon kung saan o kung kanino ka nakipag-ugnay.</string>
+    <string name="find_out_more">Alamin ang higit pa:</string>
+    <string name="terms_and_conditions">Mga tuntunin ng paggamit</string>
+    <string name="privcy_policy">Notice sa pagkapribado</string>
+    <string name="accessibility_policy">Pahayag ng Pag-access</string>
+    <string name="license">Mga Bahagi ng Software</string>
+    <string name="internal_api_error">Hindi magagamit ang Exposure API sa device na ito</string>
+
+    <string-array
+        name="days_of_week">
+        <item>Linggo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miyerkules</item>
+        <item>Huwebes</item>
+        <item>Biyernes</item>
+        <item>Sabado</item>
+    </string-array>
+    <string name="next_steps">Mga susunod na hakbang</string>
+    <string name="covid_positive">Positibo sa COVID-19</string>
+    <string name="thanks_for_care">Salamat sa pag-aalaga sa iba!</string>
+    <string name="date_test">Ibinahagi noong %s</string>
+    <string name="on_message">Ang application ay nagtatala ng mga contact sa iba pang mga device na malapit.</string>
+    <string name="off_message">Ang application ay hindi nai-record ang mga contact sa iba pang mga device na malapit.</string>
+    <string name="invalid_code">Hindi wastong code</string>
+    <string name="expired_code">Nag-expire na code</string>
+    <string name="test_sharing_list">Listahan ng mga impeksyon</string>
+    <string name="no_service">May error na naganap. Subukang muli mamaya.</string>
+    <string name="invalid_call">Di-wastong tawag</string>
+    <string name="ble_requrements">Dapat na paganahin ang Bluetooth at lokasyon para gumana nang maayos ang Exposure Notification API</string>
+    <string name="info">Info</string>
+    <string name="turned_on">Uključena</string>
+</resources>
