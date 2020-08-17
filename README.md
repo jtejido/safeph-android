@@ -1,4 +1,4 @@
 # safeph-android
-Exposure Notification app for Android.
+Google/Apple Exposure Notification (GAEN) based App for Android.
 
 ![SafePH](screenshot.png?raw=true "SafePH Exposure Notifications")
